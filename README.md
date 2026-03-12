@@ -12,7 +12,7 @@ A comprehensive sports analysis tool for analyzing player performance, team stat
 - **Data Visualization**: Charts and graphs to visualize performance trends and statistics
 - **RESTful API**: Well-structured API endpoints for data management and analysis
 
-## Technologies Used
+# Technologies Used
 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB with Mongoose ODM
