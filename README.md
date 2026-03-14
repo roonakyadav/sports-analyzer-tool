@@ -115,7 +115,7 @@ fetch('/api/analysis/top-performers/2023-2024')
   .then(data => console.log(data));
 ```
 
-## Frontend Interface
+## Frontend Interfaces
 
 The application includes a responsive web interface built with Bootstrap that allows users to:
 - View dashboard with key statistics
