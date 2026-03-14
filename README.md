@@ -140,4 +140,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Chart.js for data visualization
 - Bootstrap for responsive UI components
 - MongoDB for flexible data storage
-- Express.js for robust server framework
+- Express.js for robust server frameworks
