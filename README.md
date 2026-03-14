@@ -34,7 +34,7 @@ cd sports-analyzer-tool
 npm install
 ```
 
-3. Set up environment variables:
+3. Set up environment variables
 Create a `.env` file in the root directory with the following content:
 ```
 PORT=5000
