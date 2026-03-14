@@ -10,7 +10,7 @@ A comprehensive sports analysis tool for analyzing player performance, team stat
 - **Statistical Analysis**: Advanced metrics including player ratings, efficiency ratios, and performance trends
 - **Comparison Tools**: Compare players and teams across different seasons and competitions
 - **Data Visualization**: Charts and graphs to visualize performance trends and statistics
-- **RESTful API**: Well-structured API endpoints for data management and analysi
+- **RESTful API**: Well-structured API endpoints for data management and analysis
 
 # Technologies Used
 
